@@ -1,4 +1,4 @@
-import { getStoryblokApi } from "@storyblok/react/rsc";
+import { getStoryblokApi } from "@storyblok/react";
 import Link from "next/link";
 
 const ConcertPage = async (props: any) => {
